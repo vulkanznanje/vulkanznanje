@@ -4,7 +4,6 @@
          <img width="400" height="187" src="https://user-images.githubusercontent.com/61086486/111877382-70330b00-89a3-11eb-9d19-887bd1919bfc.png">
          </p>
          </a>
-
 **Др Милош Папић, ванр. проф.**<br/>
 Факултет техничких наука у Чачку <br/>
 http://www.ftn.kg.ac.rs/milos.papic <br/>
