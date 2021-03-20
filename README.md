@@ -24,8 +24,11 @@ prof.dalibor@gmail.com <br/>
    </head>
    <body>
          <a href="https://www.google.com">
-         <img alt="Facebook" src="https://user-images.githubusercontent.com/61086486/111874389-5985b780-8995-11eb-8a6d-02244a02c9c4.jpg"
-         width=500" height="234">
+         <img alt="Facebook" src="https://user-images.githubusercontent.com/61086486/111875812-04996f80-899c-11eb-8744-c8e05a1a57bb.png"
+         width=210" height="210">
+         <a href="https://www.google.com">
+         <img alt="Facebook" src="https://user-images.githubusercontent.com/61086486/111875812-04996f80-899c-11eb-8744-c8e05a1a57bb.png"
+         width=210" height="210">
       </a>
    </body>
 </html>
