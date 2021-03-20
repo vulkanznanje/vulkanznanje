@@ -11,6 +11,3 @@ milos.papic@ftn.kg.ac.rs <br/>
 OШ "Др Драгиша Мишовић" у Чачку <br/>
 https://www.osdragisamisovic.edu.rs/ <br/>
 prof.dalibor@gmail.com <br/>
-
-
- [YouТube](https://www.youtube.com/channel/UCRbpk-Pgl-8Ku6LD-Sv16cw/videos)
