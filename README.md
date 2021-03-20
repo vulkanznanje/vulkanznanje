@@ -11,3 +11,23 @@ milos.papic@ftn.kg.ac.rs <br/>
 OШ "Др Драгиша Мишовић" у Чачку <br/>
 https://www.osdragisamisovic.edu.rs/ <br/>
 prof.dalibor@gmail.com <br/>
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html>
+   <head>
+      <title>HTML Image as link</title>
+   </head>
+   <body>
+      The following image works as a link:<br>
+      <a href="https://www.google.com">
+         <img alt="Qries" src="https://user-images.githubusercontent.com/61086486/111874389-5985b780-8995-11eb-8a6d-02244a02c9c4.jpg"
+         width=500" height="234">
+      </a>
+   </body>
+</html>
