@@ -21,3 +21,7 @@ OШ "Др Драгиша Мишовић" у Чачку <br/>
 https://www.osdragisamisovic.edu.rs/ <br/>
 prof.dalibor@gmail.com <br/>
 
+
+
+<a href="https://www.instagram.com/absphreak" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://www.facebook.com/originalphreak" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
