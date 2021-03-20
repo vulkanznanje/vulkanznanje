@@ -1,4 +1,4 @@
-![Vulkan Znanje - Logo-slogan 1](https://user-images.githubusercontent.com/61086486/111874350-2e02cd00-8995-11eb-9aaa-62779f63423b.jpg)
+![Vulkan Znanje - Logo-slogan](https://user-images.githubusercontent.com/61086486/111874389-5985b780-8995-11eb-8a6d-02244a02c9c4.jpg)
 
 
 Др Милош Папић, ванр. проф.<br/>
