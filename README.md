@@ -1,4 +1,5 @@
 ### Dobrodosli na repozitorijum izdavacke kuce VULKAN ZNANJE na kom se nalaze dodatni sadrzaji iz Informatike i racunarstva i Tehnike i tehnologije.
+![Vulkan Znanje - Logo-slogan](https://user-images.githubusercontent.com/61086486/111872967-5cc97500-898e-11eb-8d36-b91ecd8dd968.jpg)
 ### Autori: Milos Papic i Dalibor Cukljevic
 
 - 🔭 I’m currently working on ...
