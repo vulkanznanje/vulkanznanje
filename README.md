@@ -1,10 +1,8 @@
 <!DOCTYPE html>
 <html>
-   <head>
-   </head>
    <body>
          <a href="https://vulkanznanje.rs/">
-         <p align="left">
+         <p align="center">
          <img width="400" height="187" src="https://user-images.githubusercontent.com/61086486/111877160-3ad9ed80-89a2-11eb-8eed-2d49e78db922.jpg">
          </p>
          </a>
