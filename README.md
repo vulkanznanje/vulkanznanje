@@ -12,12 +12,6 @@ OШ "Др Драгиша Мишовић" у Чачку <br/>
 https://www.osdragisamisovic.edu.rs/ <br/>
 prof.dalibor@gmail.com <br/>
 
-
-
-
-
-
-
 <!DOCTYPE html>
 <html>
    <head>
@@ -25,13 +19,13 @@ prof.dalibor@gmail.com <br/>
    <body>
          <a href="https://www.google.com">
          <img alt="Facebook" src="https://user-images.githubusercontent.com/61086486/111875812-04996f80-899c-11eb-8744-c8e05a1a57bb.png"
-         width=210" height="210">
+         width=100" height="100">
          <a href="https://www.google.com">
          <img alt="Facebook" src="https://user-images.githubusercontent.com/61086486/111875855-37436800-899c-11eb-85e2-92a4e0538055.png"
-         width=210" height="210">
+         width=100" height="100">
          <a href="https://www.google.com">
          <img alt="Facebook" src="https://user-images.githubusercontent.com/61086486/111875866-40ccd000-899c-11eb-8dd8-a3bd9f121428.png"
-         width=210" height="210">
+         width=100" height="100">
       </a>
    </body>
 </html>
