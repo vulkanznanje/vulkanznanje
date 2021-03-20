@@ -1,4 +1,5 @@
-### Dobrodosli na repozitorijum izdavacke kuce VULKAN ZNANJE na kom se nalaze dodatni sadrzaji iz Informatike i racunarstva i Tehnike i tehnologije. Autori: Milos Papic i Dalibor Cukljevic 👋
+### Dobrodosli na repozitorijum izdavacke kuce VULKAN ZNANJE na kom se nalaze dodatni sadrzaji iz Informatike i racunarstva i Tehnike i tehnologije.
+### Autori: Milos Papic i Dalibor Cukljevic
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
