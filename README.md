@@ -1,6 +1,13 @@
-### Dobrodosli na repozitorijum izdavacke kuce VULKAN ZNANJE na kom se nalaze dodatni sadrzaji iz Informatike i racunarstva i Tehnike i tehnologije.
 ![Vulkan Znanje - Logo-slogan](https://user-images.githubusercontent.com/61086486/111872967-5cc97500-898e-11eb-8d36-b91ecd8dd968.jpg)
-### Autori: Milos Papic i Dalibor Cukljevic
+Др Милош Папић, ванр. проф.
+•	Факултет техничких наука у Чачку
+•	http://www.ftn.kg.ac.rs/milos.papic 
+•	milos.papic@ftn.kg.ac.rs  
+Далибор Чукљевић, професор технике и информатике 
+•	OШ "Др Драгиша Мишовић" у Чачку
+•	https://www.osdragisamisovic.edu.rs/
+•	prof.dalibor@gmail.com 
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
