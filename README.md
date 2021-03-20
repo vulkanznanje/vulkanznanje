@@ -1,13 +1,8 @@
-<!DOCTYPE html>
-<html>
-   <body>
-         <a href="https://vulkanznanje.rs/">
+<a href="https://vulkanznanje.rs/">
          <p align="center">
          <img width="400" height="187" src="https://user-images.githubusercontent.com/61086486/111877382-70330b00-89a3-11eb-9d19-887bd1919bfc.png">
          </p>
          </a>
-   </body>
-</html>
 
 **Др Милош Папић, ванр. проф.**<br/>
 Факултет техничких наука у Чачку <br/>
@@ -25,8 +20,4 @@ prof.dalibor@gmail.com <br/>
        <a href="https://www.facebook.com/vulkanznanje/" target="_blank"><img width="35" height="35" src="https://user-images.githubusercontent.com/61086486/111876944-437df400-89a1-11eb-95b5-acae1bba8043.png" alt="Youtube"></a>
 
 
-<a href="https://vulkanznanje.rs/">
-         <p align="center">
-         <img width="400" height="187" src="https://user-images.githubusercontent.com/61086486/111877382-70330b00-89a3-11eb-9d19-887bd1919bfc.png">
-         </p>
-         </a>
+
