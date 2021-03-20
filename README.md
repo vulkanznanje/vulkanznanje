@@ -6,13 +6,13 @@
    <head>
    </head>
    <body>
-         <a href="https://www.google.com">
+         <a href="https://www.facebook.com/vulkanznanje/">
          <img alt="Facebook" src="https://user-images.githubusercontent.com/61086486/111875812-04996f80-899c-11eb-8744-c8e05a1a57bb.png"
          width=50" height="50">
-         <a href="https://www.google.com">
-         <img alt="Facebook" src="https://user-images.githubusercontent.com/61086486/111875855-37436800-899c-11eb-85e2-92a4e0538055.png"
+         <a href="https://www.instagram.com/vulkan_znanje/">
+         <img alt="Instagram" src="https://user-images.githubusercontent.com/61086486/111875855-37436800-899c-11eb-85e2-92a4e0538055.png"
          width=50" height="50">
-         <a href="https://www.google.com">
+         <a href="https://vulkanznanje.rs/">
          <img alt="Facebook" src="https://user-images.githubusercontent.com/61086486/111875866-40ccd000-899c-11eb-8dd8-a3bd9f121428.png"
          width=50" height="50">
       </a>
