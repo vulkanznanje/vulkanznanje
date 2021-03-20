@@ -1,4 +1,4 @@
-![Vulkan Znanje - Logo-slogan](https://user-images.githubusercontent.com/61086486/111872967-5cc97500-898e-11eb-8d36-b91ecd8dd968.jpg)
+![Vulkan Znanje - Logo-slogan](https://user-images.githubusercontent.com/61086486/111874044-9f418080-8993-11eb-9768-0253c8492ebf.jpg)
 Др Милош Папић, ванр. проф.<br/>
 * Факултет техничких наука у Чачку <br/>
 * http://www.ftn.kg.ac.rs/milos.papic <br/>
