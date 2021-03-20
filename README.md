@@ -1,4 +1,4 @@
-### Hi there 👋
+### Dobrodosli na repozitorijum izdavacke kuce VULKAN ZNANJE na kom se nalaze dodatni sadrzaji iz Informatike i racunarstva i Tehnike i tehnologije. Autori: Milos Papic i Dalibor Cukljevic 👋
 
 <!--
 **vulkanznanje/vulkanznanje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
