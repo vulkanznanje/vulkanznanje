@@ -7,7 +7,7 @@
 **Др Милош Папић, ванр. проф.**<br/>
 Факултет техничких наука у Чачку <br/>
 http://www.ftn.kg.ac.rs/milos.papic <br/>
-milos.papic@ftn.kg.ac.rs <br/>
+:email: milos.papic@ftn.kg.ac.rs <br/>
 
 **Далибор Чукљевић, професор технике и информатике**<br/>
 OШ "Др Драгиша Мишовић" у Чачку <br/>
