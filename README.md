@@ -21,7 +21,6 @@ prof.dalibor@gmail.com <br/>
 <!DOCTYPE html>
 <html>
    <head>
-      <title></title>
    </head>
    <body>
          <a href="https://www.google.com">
