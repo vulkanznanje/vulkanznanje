@@ -4,7 +4,6 @@
 * Факултет техничких наука у Чачку <br/>
 * http://www.ftn.kg.ac.rs/milos.papic <br/>
 * milos.papic@ftn.kg.ac.rs <br/>
-
 Далибор Чукљевић, професор технике и информатике <br/> 
 * OШ "Др Драгиша Мишовић" у Чачку <br/>
 * https://www.osdragisamisovic.edu.rs/ <br/>
