@@ -8,9 +8,9 @@
          <img width="500" height="234" src="https://user-images.githubusercontent.com/61086486/111874389-5985b780-8995-11eb-8a6d-02244a02c9c4.jpg">
          </p>
          <p align="center">
-         <a href="https://www.instagram.com/vulkan_znanje/" target="_blank"><img src="https://user-images.githubusercontent.com/61086486/111876943-437df400-89a1-11eb-841d-a9052812e1ca.png" alt="Instagram"></a>
-<a href="https://www.facebook.com/vulkanznanje/" target="_blank"><img src="https://user-images.githubusercontent.com/61086486/111876942-42e55d80-89a1-11eb-8730-21077a321694.png" alt="Facebook"></a>
-       <a href="https://www.facebook.com/vulkanznanje/" target="_blank"><img src="https://user-images.githubusercontent.com/61086486/111876944-437df400-89a1-11eb-95b5-acae1bba8043.png" alt="Youtube"></a>
+         <a href="https://www.instagram.com/vulkan_znanje/" target="_blank"><img width="50" height="50" src="https://user-images.githubusercontent.com/61086486/111876943-437df400-89a1-11eb-841d-a9052812e1ca.png" alt="Instagram"></a>
+<a href="https://www.facebook.com/vulkanznanje/" target="_blank"><img width="50" height="50" src="https://user-images.githubusercontent.com/61086486/111876942-42e55d80-89a1-11eb-8730-21077a321694.png" alt="Facebook"></a>
+       <a href="https://www.facebook.com/vulkanznanje/" target="_blank"><img width="50" height="50" src="https://user-images.githubusercontent.com/61086486/111876944-437df400-89a1-11eb-95b5-acae1bba8043.png" alt="Youtube"></a>
       </a>
    </body>
 </html>
