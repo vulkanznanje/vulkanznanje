@@ -9,12 +9,14 @@
 :computer: http://www.ftn.kg.ac.rs/milos.papic <br/>
 :scroll: https://www.researchgate.net/profile/Milos-Papic-2 <br/>
 :scroll: https://www.linkedin.com/in/milospapic/ <br/>
+:scroll: https://www.facebook.com/miloshpapitj/ <br/>
 :e-mail: milos.papic@ftn.kg.ac.rs <br/>
 
 **Далибор Чукљевић, професор технике и информатике**<br/>
 :office: OШ "Др Драгиша Мишовић" у Чачку <br/>
 :computer: https://www.osdragisamisovic.edu.rs/ <br/>
 :scroll: https://www.linkedin.com/in/daliborcukljevic/ <br/>
+:scroll: https://www.facebook.com/miloshpapitj/ <br/>
 :e-mail: prof.dalibor@gmail.com <br/>
 
 <p align="left">
