@@ -4,7 +4,7 @@
          </p>
          </a>
          
-**Др Милош Папић, ванр. проф.**<br/>
+**Проф. др Милош Папић**<br/>
 :office: Факултет техничких наука у Чачку <br/>
 :computer: http://www.ftn.kg.ac.rs/milos.papic <br/>
 :scroll: https://www.researchgate.net/profile/Milos-Papic-2 <br/>
